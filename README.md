@@ -1,2 +1,2 @@
 # BlogIt
- A Blog Website
+ A Blogging Website
